@@ -1,4 +1,4 @@
-//isspace: °ø¹éÀ¯¹« ÇÔ¼ö ÀÌ¿ëÇÏ±â
+//isspace: ê³µë°±ìœ ë¬´í•¨ìˆ˜ì´ìš©í•˜ê¸°
 
 #include <iostream> 
 #include <string>
