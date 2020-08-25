@@ -1,5 +1,5 @@
-//¾ËÆÄºª Ã£±â
-//°°Àº ¹®ÀÚÀÏ‹š´Â Ã³À½ ¹®ÀÚ·Î
+//ì•ŒíŒŒë²³ ì°¾ê¸°
+//ê°™ì€ ë¬¸ìžì¼ë–„ëŠ” ì²˜ìŒ ë¬¸ìžë¡œ
 #include <iostream> 
 #include <cstring>
 using namespace std;
