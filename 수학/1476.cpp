@@ -1,4 +1,8 @@
-//
+/* 
+year = 15x + E
+year = 28y + S
+year = 19y + M
+*/
 #include <iostream>
 using namespace std;
 int main()
