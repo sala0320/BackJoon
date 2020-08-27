@@ -1,4 +1,4 @@
-// ¼ÕÀÍºÐ±âÁ¡ Cx > A + Bx -> (C - B)x > A -> x > A / (C -B)
+// ì†ìµë¶„ê¸°ì  Cx > A + Bx -> (C - B)x > A -> x > A / (C -B)
 
 #include <iostream>
 using namespace std;
