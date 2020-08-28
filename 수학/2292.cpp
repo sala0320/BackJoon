@@ -1,3 +1,4 @@
+//<2 <8 < 20 ... 6의배수로 더해지는 규칙
 #include <iostream>
 using namespace std;
 int main()
